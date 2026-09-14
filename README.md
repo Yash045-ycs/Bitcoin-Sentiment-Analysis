@@ -1,7 +1,9 @@
 # Bitcoin Market Sentiment vs Trader Performance Analysis
 
 ## Overview
-This project explores the relationship between Bitcoin Fear & Greed Index and trader performance using Hyperliquid historical trading data.
+This project explores the relationship between the Bitcoin Fear & Greed Index and trader performance by analyzing historical trading data from Hyperliquid.
+
+Market sentiment—ranging from extreme fear to extreme greed—plays a pivotal role in driving trader psychology, influencing trade frequency, position sizes, win rates, and overall profitability. By correlating daily Fear & Greed Index levels with execution logs from Hyperliquid, this project evaluates how trader performance and risk management behavior evolve across different sentiment regimes. The analysis highlights how traders react during market extremes compared to neutral conditions, uncovering key psychological biases and performance drivers.
 
 ## Objectives
 - Analyze trader behavior across market sentiments
